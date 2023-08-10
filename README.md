@@ -1,14 +1,12 @@
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DriveThruDigest</title>
-    <link rel="stylesheet" href="./style.css">
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
-  </head>
-  <body>
-    <main>
-        <h1></h1>  
-    </main>
-	<script src="index.js"></script>
-  </body>
+<div class='header'>
+	<h1>
+		DriveThruDigest 
+	</h1>
+	
+	<h2>
+		Navigating the Caloric Landscape
+	</h2>
+	<p>
+		Join us on the journey as we explore the world of calories and dive into the nuterial value of fast food resturants.
+	</p>
+</div>	
